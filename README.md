@@ -5,7 +5,7 @@ SpotMicro with Google Cloud Speech-to-Text
     <img src="./SpotMicro.jpg" width="80%" height="80%">
 </center>
 
-### News
+## News
 
 - There's Full video instruction about this project [youtube link](https://www.youtube.com/watch?v=RocfxXIWZd4&list=PLK2UKp8KOXe1ZRbSmcO3VvE_TNs66K6lA)
 - And also there's Notion Note for whole project process [Notion Link](https://www.notion.so/SpotMicro-for-G-Camp-c541934a4bad4ad48d1e37ab94c10de8) 
