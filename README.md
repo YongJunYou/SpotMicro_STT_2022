@@ -20,10 +20,10 @@ The hardware for SpotMicro is designed to be both aesthetically pleasing as well
 
 The vast majority of the hardware by volume is designed to be 3D printed. So far complete prints have been successful in PLA, though no technical barriers should exist to printing the robot in other material such as PETG, nylon, ABS, etc. The majority of parts require significant supports to print.
 
-The files available both as STL and STP. As a community we have not yet settled on a servo for this project and therefore multiple versions of the hardware exist to support the physical dimensions of the servos and their respective servo horns. For the most up-to-date version of the hardware please visit: [https://www.thingiverse.com/thing:3761340](https://www.thingiverse.com/thing:3761340). Please see documentation for details as to which files correspond to which servo. (I use MG996R)
+The files available both as STL and STP. As a community we have not yet settled on a servo for this project and therefore multiple versions of the hardware exist to support the physical dimensions of the servos and their respective servo horns. For the most up-to-date version of the hardware please visit: [https://www.thingiverse.com/thing:3761340](https://www.thingiverse.com/thing:3761340). Please see documentation for details as to which files correspond to which servo. (I use `MG996R`)
 
 ## Electronics:
 
-The `Jetson Nano` operates at 5.6v, and the `PCA9658` for driving the servomotor operates at 6v. In this project, the electronic department was constructed using 11.1v LiPo batteries and `xL4015` DC Converter.
+The `Jetson Nano` operates at 5.6v, and the `PCA9658` for driving the servomotor operates at 6v. In this project, the electronic department was constructed using 11.1v LiPo batteries and `XL4015` DC Converter.
 
 ![Logo](https://gitlab.com/custom_robots/spotmicroai/website/raw/master/docs/assets/logo.png)
