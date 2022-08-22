@@ -2,7 +2,7 @@
 SpotMicro with Google Cloud Speech-to-Text
 
 <center>
-    <img src="./Images/SpotMicro.png" width="50%" height="50%">
+    <img src="./SpotMicro.png" width="50%" height="50%">
 </center>
 
 ### News
