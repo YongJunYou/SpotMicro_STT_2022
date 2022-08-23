@@ -28,6 +28,6 @@ Test go & stop by speech recognition
     <img src="https://user-images.githubusercontent.com/55341412/185874544-9720da5b-5e59-4223-82cf-e0405e3ba602.gif">
 </p>
 
-**Contributors: Yongjun You, Kim Inwoo, Baek Sunghyun, Lee Byungyu **
+**Contributors: Yongjun You, Kim Inwoo, Baek Sunghyun, Lee Byungyu**
 
 **Thanks to Advice: Ji Minwoo, Choi Seunghwan, Jang Junhee**
