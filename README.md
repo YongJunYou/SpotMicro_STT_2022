@@ -29,3 +29,5 @@ Test go & stop by speech recognition
 </p>
 
 **Contributors: Yongjun You, Kim Inwoo, Baek Sunghyun, Lee Byungyu **
+
+**Thanks to Advice: Ji Minwoo, Choi Seunghwan, Jang Junhee**
